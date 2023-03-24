@@ -1,0 +1,1 @@
+This code returns the client IP of an RDS user (when the feature has been enabled)

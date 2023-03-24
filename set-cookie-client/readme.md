@@ -1,0 +1,1 @@
+This code used some lesser known Internet Explorer API's to set a client side cookie. The code ran at logon and set the cookie for the user

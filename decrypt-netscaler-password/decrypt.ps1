@@ -36,7 +36,6 @@ class AESCipher {
         $aes.Dispose()
 
         return $decrypted
-        return Unpad-String $decrypted
     }
 }
 
